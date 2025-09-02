@@ -1,5 +1,5 @@
 # Data Science Portfolio
-*Timothy Spivey - Aspiring Data Scientist*
+*Timothy Spivey*
 
 A comprehensive portfolio demonstrating proficiency in machine learning, statistical analysis, and data visualization for business applications.
 
